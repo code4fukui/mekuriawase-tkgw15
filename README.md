@@ -1,5 +1,7 @@
 # mekuriawase-tkgw15
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A memory match game using the Tokugawa 15 Shoguns open data.
 
 ## Demo
