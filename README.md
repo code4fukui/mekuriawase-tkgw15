@@ -16,4 +16,4 @@ https://code4fukui.github.io/mekuriawase-tkgw15/
 The game uses the [Tokugawa 15 Shoguns Open Data](https://code4fukui.github.io/tokugawa15/) as the source for the card content.
 
 ## License
-MIT License
+MIT License — see [LICENSE](LICENSE).
