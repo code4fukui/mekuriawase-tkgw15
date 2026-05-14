@@ -6,7 +6,7 @@ A memory match game based on the 15 Shoguns of the Tokugawa dynasty. Test your k
 
 ## Demo
 
-**Play the game here: https://code4fukui.github.io/mekuriawase-tkgw15/**
+**Play the game here: https://github.com/code4fukui/mekuriawase-tkgw15
 
 ## Gameplay
 

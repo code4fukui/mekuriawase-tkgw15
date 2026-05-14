@@ -4,7 +4,7 @@
 
 ## デモ
 
-**ゲームはこちらで遊べます: https://code4fukui.github.io/mekuriawase-tkgw15/**
+**ゲームはこちらで遊べます: https://github.com/code4fukui/mekuriawase-tkgw15
 
 ## 遊び方
 
